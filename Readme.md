@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/E5030/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/E5030/Controllers/HomeController.vb))
+* [ProductsByCategoriesReport.cs](./CS/E5030/Reports/ProductsByCategoriesReport.cs) (VB: [ProductsByCategoriesReport.vb](./VB/E5030/Reports/ProductsByCategoriesReport.vb))
+* [_DocumentViewerPartial.cshtml](./CS/E5030/Views/Home/_DocumentViewerPartial.cshtml)
+* [_ReportCallbackPanelPartial.cshtml](./CS/E5030/Views/Home/_ReportCallbackPanelPartial.cshtml)
+* **[Index.cshtml](./CS/E5030/Views/Home/Index.cshtml)**
+<!-- default file list end -->
 # How to implement a drill-down feature for an ASP.NET MVC web report
 
 
