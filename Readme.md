@@ -8,6 +8,9 @@
 * **[Index.cshtml](./CS/E5030/Views/Home/Index.cshtml)**
 <!-- default file list end -->
 # How to implement a drill-down feature for an ASP.NET MVC web report
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e5030)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how you can implement a <a href="http://documentation.devexpress.com/#XtraReports/CustomDocument5316"><u>Drill-Down</u></a> feature for a report displayed in the ASP.NET MVC <a href="http://documentation.devexpress.com/#AspNet/CustomDocument10009"><u>DocumentViewer</u></a> extension.<br /><br /></p>
