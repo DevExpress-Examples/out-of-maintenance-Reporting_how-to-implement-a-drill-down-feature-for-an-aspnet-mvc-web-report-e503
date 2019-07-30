@@ -9,7 +9,7 @@
 <!-- default file list end -->
 # How to implement a drill-down feature for an ASP.NET MVC web report
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e5030)**
+**[[Run Online]](https://codecentral.devexpress.com/e5030/)**
 <!-- run online end -->
 
 
