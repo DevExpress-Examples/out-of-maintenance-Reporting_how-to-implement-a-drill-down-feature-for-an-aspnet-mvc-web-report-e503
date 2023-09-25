@@ -1,9 +1,0 @@
-@{
-    ViewBag.Title = "Home Page";
-}
-<script type="text/javascript">
-    function ProductsByCategoriesReport_ExpandClick(categoryID) {
-        ReportCallbackPanel.PerformCallback({ CategoryID: categoryID });
-    }
-</script>
-@Html.Action("ReportCallbackPanelPartial")
